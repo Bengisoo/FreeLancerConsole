@@ -1,0 +1,15 @@
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\bin\Debug\net7.0\FreeLanceConsole.exe
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\bin\Debug\net7.0\FreeLanceConsole.deps.json
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\bin\Debug\net7.0\FreeLanceConsole.runtimeconfig.json
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\bin\Debug\net7.0\FreeLanceConsole.dll
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\bin\Debug\net7.0\FreeLanceConsole.pdb
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.AssemblyInfo.cs
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.dll
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\refint\FreeLanceConsole.dll
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.pdb
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\FreeLanceConsole.genruntimeconfig.cache
+C:\Users\zehra\source\repos\FreeLanceConsole\FreeLanceConsole\obj\Debug\net7.0\ref\FreeLanceConsole.dll
